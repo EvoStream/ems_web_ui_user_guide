@@ -16,11 +16,11 @@ To create an HDS stream, simply follow these steps:
    
 4. Enter the Chunk Length (in seconds) for the chunk length value
    
-   ![]({{site.url}}/assets/image7.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image7.jpg)
    
 5. Click **Create HDS Stream**
 
-![]({{site.url}}/assets/image8.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/image8.jpg)
 
 **Notes:**
 

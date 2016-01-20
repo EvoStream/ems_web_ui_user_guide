@@ -16,11 +16,11 @@ To create an MSS stream, simply follow these steps:
    
 4. Enter the Chunk Length (in seconds) for the chunk length value
    
-   ![]({{site.url}}/assets/image9.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image9.jpg)
    
 5. Click **Create MSS Stream**
 
-![]({{site.url}}/assets/image10.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/image10.jpg)
 
 **Notes:**
 

@@ -16,11 +16,11 @@ To create a DASH stream, simply follow these steps:
    
 4. Enter the Chunk Length (in seconds) for the chunk length value
    
-   ![]({{site.url}}/assets/image11.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image11.jpg)
    
 5. Click **Create DASH Stream**
 
-![]({{site.url}}/assets/image12.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/image12.jpg)
 
 **Notes:**
 

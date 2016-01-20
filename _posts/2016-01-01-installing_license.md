@@ -14,7 +14,7 @@ User’s may opt to install license manually by copying the License.lic to the c
    
 3. Click **Install EMS License** in the upper left corner of the page
    
-   ![]({{site.url}}/assets/image1.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image1.jpg)
    
 4. **Browse** the license file, and enter the directory where license will be installed
    
@@ -22,7 +22,7 @@ User’s may opt to install license manually by copying the License.lic to the c
    
 6. A successful message will prompt for successful installation
    
-   ![]({{site.url}}/assets/image2.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image2.jpg)
 
 **Note:**
 

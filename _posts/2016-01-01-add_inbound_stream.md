@@ -12,11 +12,11 @@ This command is similar to pullstream. To add a stream, do the following steps:
    
 2. Select whether the stream will be forced to TCP or not
    
-   ![addinbound]({{site.url}}/assets/addinbound.jpg)
+   ![addinbound]({{site.url}}{{site.baseurl}}/assets/addinbound.jpg)
    
 3. Click **Add Stream**
    
-   ![image4]({{site.url}}/assets/image4.jpg)
+   ![image4]({{site.url}}{{site.baseurl}}/assets/image4.jpg)
 
 **Notes:**
 

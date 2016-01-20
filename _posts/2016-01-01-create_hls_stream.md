@@ -16,11 +16,11 @@ To create an HLS stream, simply follow these steps:
    
 4. Enter the Chunk Length (in seconds) for the chunk length value
    
-   ![]({{site.url}}/assets/image5.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image5.jpg)
    
 5. Click **Create HLS Stream**
    
-   ![]({{site.url}}/assets/image6.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image6.jpg)
 
 **Notes:**
 

@@ -16,4 +16,4 @@ User’s can access EMS as long as the IP address is known. To connect to the de
    
    **Note:** IP address given is the localhost as default.
 
-![]({{site.url}}/assets/image3.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/image3.jpg)

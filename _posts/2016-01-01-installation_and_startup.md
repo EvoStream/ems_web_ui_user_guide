@@ -58,5 +58,5 @@ http://localhost:8888/EMS_Web_UI
 
 This will open the EMS Web UI’s home screen.
 
-![homepage]({{site.url}}/assets/homepage.jpg)
+![homepage]({{site.url}}{{site.baseurl}}/assets/homepage.jpg)
 

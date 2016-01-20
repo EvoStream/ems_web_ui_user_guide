@@ -16,8 +16,8 @@ To create a MPEG-TS stream, simply follow these steps:
    
 3. Enter the Target Port to listen to
    
-   ![]({{site.url}}/assets/image15.jpg)
+   ![]({{site.url}}{{site.baseurl}}/assets/image15.jpg)
    
 4. Click **Send MPEG-TS Stream**
 
-![]({{site.url}}/assets/image16.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/image16.jpg)
