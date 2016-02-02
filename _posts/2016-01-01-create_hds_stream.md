@@ -22,8 +22,9 @@ To create an HDS stream, simply follow these steps:
 
 ![]({{site.url}}{{site.baseurl}}/assets/image8.jpg)
 
+
+
 **Notes:**
 
 - Created HDS is saved in the target folder
 - A successful create HDS will list the stream under Stream List
-

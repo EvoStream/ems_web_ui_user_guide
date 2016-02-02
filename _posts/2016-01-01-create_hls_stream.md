@@ -22,8 +22,9 @@ To create an HLS stream, simply follow these steps:
    
    ![]({{site.url}}{{site.baseurl}}/assets/image6.jpg)
 
+
+
 **Notes:**
 
 - Created HLS is saved in the target folder
 - A successful create HLS will list the stream under Stream List
-
