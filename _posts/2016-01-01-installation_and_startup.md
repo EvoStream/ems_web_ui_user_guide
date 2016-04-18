@@ -47,7 +47,7 @@ The Web UI is located in the evo-webroot folder which is the evo-webservices’ 
 Test the installation by navigating to:
 
 ``` 
-http://localhost:8888/EMS_Web_UI
+http://localhost:8888/EMS_Web_UI/index.php
 ```
 
 **Notes:**
