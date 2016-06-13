@@ -22,8 +22,9 @@ To create an MSS stream, simply follow these steps:
 
 ![]({{site.url}}{{site.baseurl}}/assets/image10.jpg)
 
+
+
 **Notes:**
 
 - Created MSS is saved in the target folder
 - A successful create MSS will list the stream under Stream List
-

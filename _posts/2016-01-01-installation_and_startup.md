@@ -12,6 +12,8 @@ Following the instructions that can be found in the EMS User Guide, install the 
 
 ------
 
+
+
 ## Environment Installation
 
 The Web-based UI requires the evo-webserver which is the EMS’s local web server and installed along the installation of the EMS package.
@@ -34,11 +36,13 @@ Required Modules to Install:
 
 - PHP\_CURL\* – Handles external HTTP Post/Get requests. Required to interact with the EMS.
 
-> Some recent distributions of WAMP/LAMP have been released with corrupt PHP\_CURL modules! If the Web UI does not cause any logging events on the EMS (see below), then your CURL module may be inactive or corrupt.
+*Some recent distributions of WAMP/LAMP have been released with corrupt PHP\_CURL modules! If the Web UI does not cause any logging events on the EMS (see below), then your CURL module may be inactive or corrupt.*
 
 Please refer to the documents of your chosen web server for installation and configuration directions.
 
 ------
+
+
 
 ## Web UI Installation
 
@@ -59,4 +63,3 @@ http://localhost:8888/EMS_Web_UI/index.php
 This will open the EMS Web UI’s home screen.
 
 ![homepage]({{site.url}}{{site.baseurl}}/assets/homepage.jpg)
-

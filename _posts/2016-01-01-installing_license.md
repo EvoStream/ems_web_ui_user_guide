@@ -24,6 +24,8 @@ User’s may opt to install license manually by copying the License.lic to the c
    
    ![]({{site.url}}{{site.baseurl}}/assets/image2.jpg)
 
+
+
 **Note:**
 
 Restart EMS to apply the license file added

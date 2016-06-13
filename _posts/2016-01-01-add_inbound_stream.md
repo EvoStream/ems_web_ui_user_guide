@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: add_inbound_stream
 ---
 
-This command is similar to pullstream. To add a stream, do the following steps:
+This command is similar to `pullstream`. To add a stream, do the following steps:
 
 1. Enter the stream name and stream source to be added
    
@@ -18,8 +18,10 @@ This command is similar to pullstream. To add a stream, do the following steps:
    
    ![image4]({{site.url}}{{site.baseurl}}/assets/image4.jpg)
 
+
+
 **Notes:**
 
-- Stream name is for the localStreamName parameter under pullStream
-- Stream source is for the URI under pullStream
+- Stream name is for the `localStreamName` parameter under `pullStream`
+- Stream source is for the URI under `pullStream`
 - A successful add stream will list the stream under Stream List

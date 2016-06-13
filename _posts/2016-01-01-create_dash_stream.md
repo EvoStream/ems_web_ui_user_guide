@@ -22,8 +22,9 @@ To create a DASH stream, simply follow these steps:
 
 ![]({{site.url}}{{site.baseurl}}/assets/image12.jpg)
 
+
+
 **Notes:**
 
 - Created DASH is saved in the target folder
 - A successful create DASH will list the stream under Stream List
-
